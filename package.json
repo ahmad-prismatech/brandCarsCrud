@@ -1,6 +1,6 @@
 {
   "name": "bulletproof-boilerplate-node-app",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "BoilerPlate for backend node express mongo",
   "main": "app.js",
   "engines": {
